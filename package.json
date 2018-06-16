@@ -5,6 +5,10 @@
   "author": "Rennzh <hennzr@gmail.com>",
   "private": false,
   "main": "dist/pwd-inputs.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rennzh/vue-pwd-inputs.git"
+  },
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",

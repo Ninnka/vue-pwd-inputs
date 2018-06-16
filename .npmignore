@@ -3,6 +3,7 @@ config/
 static/
 node_modules/
 src/
+.git/
 
 .DS_Store
 npm-debug.log*
@@ -10,6 +11,7 @@ yarn-debug.log*
 yarn-error.log*
 
 .babelrc
+.gitignore
 .editorconfig
 .eslintignore
 .eslintrc

@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import PwdInputs from '../packages/pwd-inputs/src/pwd-inputs';
+import PwdInputs from './components/pwd-inputs';
 
 export default {
   name: 'App',

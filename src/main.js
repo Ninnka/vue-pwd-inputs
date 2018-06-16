@@ -1,4 +1,4 @@
-import PwdInputs from '../packages/pwd-inputs';
+import PwdInputs from './components/pwd-inputs';
 
 // const components = [
 //   PwdInputs
